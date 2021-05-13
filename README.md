@@ -4,7 +4,7 @@
 ![GitHub deployments](https://img.shields.io/github/deployments/wvanlit/Vue-TaskList/github-pages?label=pages)
 ![Lines of code](https://img.shields.io/tokei/lines/github/wvanlit/vue_tasklist)
 
-[Hosted here](https://wvanlit.github.io/vue_tasklist/)
+[Hosted here](https://wvanlit.github.io/Vue-TaskList/)
 
 ## Description
 A Task Tracker built using Vue.js, which stores data in your browsers [local storage](https://developer.mozilla.org/en-US/docs/web/api/window/localstorage).
