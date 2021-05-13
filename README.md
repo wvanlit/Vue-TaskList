@@ -1,7 +1,7 @@
 # Vue Task List :clipboard:
 ![GitHub package.json version](https://img.shields.io/github/package-json/v/wvanlit/Vue-TaskList)
 ![GitHub last commit](https://img.shields.io/github/last-commit/wvanlit/Vue-TaskList)
-![GitHub deployments](https://img.shields.io/github/deployments/wvanlit/Vue-TaskList/github-pages?label=pages)
+![Website](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fwvanlit.github.io%2FVue-TaskList%2F)
 ![Lines of code](https://img.shields.io/tokei/lines/github/wvanlit/vue_tasklist)
 
 [Hosted here](https://wvanlit.github.io/Vue-TaskList/)
@@ -10,9 +10,12 @@
 A Task Tracker built using Vue.js, which stores data in your browsers [local storage](https://developer.mozilla.org/en-US/docs/web/api/window/localstorage).
 
 ## Preview
-<img src="/images/preview.png" width="500">
+<p align="center">
+  <img src="/images/preview.png" width="300">
+</p>
 
 ## Project Task List
+
 - [x] **v0.1** - Single list with tasks
 - [x] **v0.2** - Automatic upload to Github Pages
 - [ ] **v0.3** - Implement date-time picker :date:  
